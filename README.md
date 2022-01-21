@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-grey.svg?&style=flat-square&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/C-grey.svg?&style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Java-grey.svg?&style=flat-square&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-grey.svg?&style=flat-square&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-grey.svg?&style=flat-square&logo=JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-grey.svg?&style=flat-square&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-grey.svg?&style=flat-square&logo=Dart&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-grey.svg?&style=flat-square&logo=PostgreSQL&logoColor=white">
