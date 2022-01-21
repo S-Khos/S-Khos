@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 ## Library Experience
 
-<img src="https://img.shields.io/badge/ReactJS-grey.svg?&style=flat-square&logo=ReactJS">
-<img src="https://img.shields.io/badge/ExpressJS-grey.svg?&style=flat-square&logo=ExpressJS">
-<img src="https://img.shields.io/badge/NodeJS-grey.svg?&style=flat-square&logo=NodeJS">
-<img src="https://img.shields.io/badge/OpenCV-grey.svg?&style=flat-square&logo=OpenCV">
-<img src="https://img.shields.io/badge/NumPy-grey.svg?&style=flat-square&logo=NumPy">
-<img src="https://img.shields.io/badge/PyTorch-grey.svg?&style=flat-square&logo=PyTorch">
-<img src="https://img.shields.io/badge/FFmpeg-grey.svg?&style=flat-square&logo=FFmpeg">
-<img src="https://img.shields.io/badge/TensorFlow-grey.svg?&style=flat-square&logo=TensorFlow">
-<img src="https://img.shields.io/badge/Keras-grey.svg?&style=flat-square&logo=Keras">
+<img src="https://img.shields.io/badge/ReactJS-grey.svg?&style=square&logo=ReactJS">
+<img src="https://img.shields.io/badge/ExpressJS-grey.svg?&style=square&logo=ExpressJS">
+<img src="https://img.shields.io/badge/NodeJS-grey.svg?&style=square&logo=NodeJS">
+<img src="https://img.shields.io/badge/OpenCV-grey.svg?&style=square&logo=OpenCV">
+<img src="https://img.shields.io/badge/NumPy-grey.svg?&style=square&logo=NumPy">
+<img src="https://img.shields.io/badge/PyTorch-grey.svg?&style=square&logo=PyTorch">
+<img src="https://img.shields.io/badge/FFmpeg-grey.svg?&style=square&logo=FFmpeg">
+<img src="https://img.shields.io/badge/TensorFlow-grey.svg?&style=square&logo=TensorFlow">
+<img src="https://img.shields.io/badge/Keras-grey.svg?&style=square&logo=Keras">
