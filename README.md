@@ -16,4 +16,12 @@ Here are some ideas to get you started:
 -->
 ## Technical Skills
 
-<img src="https://img.shields.io/badge/Python-white.svg?&style=flat-square&logo=python&logoColor=3776AB"> <img src="https://img.shields.io/badge/C++-white.svg?&style=flat-square&logo=c%2B%2B&logoColor=00599C"> <img src="https://img.shields.io/badge/Java-white.svg?&style=flat-square&logo=java&logoColor=orange"> <img src="https://img.shields.io/badge/JavaScript-white.svg?&style=flat-square&logo=JavaScript&logoColor=3776AB"> 
+<img src="https://img.shields.io/badge/Python-white.svg?&style=flat-square&logo=Python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/C++-white.svg?&style=flat-square&logo=C++&logoColor=3776AB">
+<img src="https://img.shields.io/badge/C-white.svg?&style=flat-square&logo=C&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Java-white.svg?&style=flat-square&logo=Java&logoColor=3776AB">
+<img src="https://img.shields.io/badge/JavaScript-white.svg?&style=flat-square&logo=JavaScript&logoColor=3776AB">
+<img src="https://img.shields.io/badge/TypeScript-white.svg?&style=flat-square&logo=TypeScript&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Dart-white.svg?&style=flat-square&logo=Dart&logoColor=3776AB">
+<img src="https://img.shields.io/badge/PostgreSQL-white.svg?&style=flat-square&logo=PostgreSQL&logoColor=3776AB">
+<img src="https://img.shields.io/badge/MySQL-white.svg?&style=flat-square&logo=MySQL&logoColor=3776AB">
