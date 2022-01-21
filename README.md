@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 ## Technical Skills
 
-<img src="https://img.shields.io/badge/Python-grey.svg?&style=flat-square&logo=Python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/C++-grey.svg?&style=flat-square&logo=C++&logoColor=3776AB">
-<img src="https://img.shields.io/badge/C-grey.svg?&style=flat-square&logo=C&logoColor=3776AB">
-<img src="https://img.shields.io/badge/Java-grey.svg?&style=flat-square&logo=Java&logoColor=3776AB">
-<img src="https://img.shields.io/badge/JavaScript-grey.svg?&style=flat-square&logo=JavaScript&logoColor=3776AB">
-<img src="https://img.shields.io/badge/TypeScript-grey.svg?&style=flat-square&logo=TypeScript&logoColor=3776AB">
-<img src="https://img.shields.io/badge/Dart-grey.svg?&style=flat-square&logo=Dart&logoColor=3776AB">
-<img src="https://img.shields.io/badge/PostgreSQL-grey.svg?&style=flat-square&logo=PostgreSQL&logoColor=3776AB">
-<img src="https://img.shields.io/badge/MySQL-grey.svg?&style=flat-square&logo=MySQL&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Python-grey.svg?&style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-grey.svg?&style=flat-square&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/C-grey.svg?&style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Java-grey.svg?&style=flat-square&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-grey.svg?&style=flat-square&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-grey.svg?&style=flat-square&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-grey.svg?&style=flat-square&logo=Dart&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-grey.svg?&style=flat-square&logo=PostgreSQL&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-grey.svg?&style=flat-square&logo=MySQL&logoColor=white">
