@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 ## Library & Framework Experience
 <img src="https://img.shields.io/badge/React-grey.svg?&style=square&logo=React"> <img src="https://img.shields.io/badge/Express-grey.svg?&style=square&logo=Express"> <img src="https://img.shields.io/badge/Node.Js-grey.svg?&style=square&logo=Node.js"> <img src="https://img.shields.io/badge/OpenCV-grey.svg?&style=square&logo=OpenCV"> <img src="https://img.shields.io/badge/NumPy-grey.svg?&style=square&logo=NumPy"> <img src="https://img.shields.io/badge/PyTorch-grey.svg?&style=square&logo=PyTorch"> <img src="https://img.shields.io/badge/FFmpeg-grey.svg?&style=square&logo=FFmpeg"> <img src="https://img.shields.io/badge/TensorFlow-grey.svg?&style=square&logo=TensorFlow"> <img src="https://img.shields.io/badge/Keras-grey.svg?&style=square&logo=Keras"> <img src="https://img.shields.io/badge/Flutter-grey.svg?&style=square&logo=Flutter">
 
-## Stats
 ![Shayan's stats](https://github-readme-stats.vercel.app/api?username=S-Khos&count_private=true) <br>
